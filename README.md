@@ -5,9 +5,11 @@ This repository provides a comprehensive guide and implementation for creating v
 Table of Contents:
 
 Introduction
+
 Usage
 
-Introduction
+Introduction:
+
 This repository demonstrates how to create logical gates, such as AND, OR, NOT, NAND, NOR, and XOR, using deep learning techniques. The goal is to showcase the progression from building a neural network for logical gates from scratch to utilizing advanced libraries like TensorFlow .
 
 
@@ -17,12 +19,6 @@ Python 3.x
 TensorFlow  
 NumPy
 Install the required packages using pip:
-
-bash
-Copy code
-pip install numpy matplotlib
-For TensorFlow:
-
 
 
 Basic Logical Gates Implementation
@@ -40,5 +36,4 @@ Implement logical gates using TensorFlow or PyTorch.
 Usage
 Each implementation has a dedicated file in the src/ directory. Run the desired file to create and visualize the logical gate. For example:
 
-
- Feel free to use the code provided in this repository for your projects.
+Feel free to use the code provided in this repository for your projects.
