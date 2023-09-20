@@ -2,11 +2,6 @@
 
 This repository provides a comprehensive guide and implementation for creating various types of logical gates using a deep learning approach, starting from scratch and progressing to using advanced libraries.
 
-Table of Contents:
-
-Introduction
-
-Usage
 
 Introduction:
 
@@ -32,8 +27,6 @@ XOR Gate Implementation
 Implement XOR gate using a multi-layer neural network.
 Advanced Libraries Implementation
 
-Implement logical gates using TensorFlow or PyTorch.
-Usage
-Each implementation has a dedicated file in the src/ directory. Run the desired file to create and visualize the logical gate. For example:
+Implement logical gates using TensorFlow .
 
 Feel free to use the code provided in this repository for your projects.
