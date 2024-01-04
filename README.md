@@ -5,7 +5,7 @@ This repository provides a comprehensive guide and implementation for creating v
 
 Introduction:
 
-This repository demonstrates how to create logical gates, such as AND, OR, NOT, NAND, NOR, and XOR, using deep learning techniques. The goal is to showcase the progression from building a neural network for logical gates from scratch to utilizing advanced libraries like TensorFlow .
+This repository demonstrates how to create logical gates, such as AND, OR, NOT, NAND, NOR, and XOR, using deep learning approch. The goal is to showcase the progression from building a neural network for logical gates from scratch to utilizing advanced libraries like TensorFlow .
 
 
 To run the implementations, you'll need the following:
